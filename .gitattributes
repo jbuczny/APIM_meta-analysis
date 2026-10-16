@@ -1,0 +1,16 @@
+# Normalise line endings in the repository; check out native on each platform.
+* text=auto
+
+*.R      text
+*.Rmd    text
+*.Rproj  text
+*.csv    text
+*.md     text
+
+# Binary: never normalise or diff as text.
+*.rds    binary
+*.RData  binary
+*.docx   binary
+*.xlsx   binary
+*.png    binary
+*.pdf    binary

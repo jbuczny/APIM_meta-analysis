@@ -1,0 +1,16 @@
+# ---- R / RStudio ----------------------------------------------------------
+.Rproj.user/
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+
+# ---- macOS / Dropbox ------------------------------------------------------
+.DS_Store
+.AppleDouble
+.AU.*.nosync
+.dropbox*
+Icon?
+
+# ---- Office lock files ----------------------------------------------------
+~$*
